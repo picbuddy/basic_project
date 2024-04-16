@@ -1,0 +1,15 @@
+name: intro_202102691
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.5.0-edge.1b249f5496d7fd4923b966577c45cd30060350e0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
